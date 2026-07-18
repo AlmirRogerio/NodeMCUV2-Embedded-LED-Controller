@@ -1,4 +1,4 @@
-# NodeMCU WebServer
+# NodeMCUV2-Embedded-LED-Controller
 
 Web server embarcado no ESP8266 (NodeMCU v2) com gerenciamento WiFi via captive portal e controle de LED pela interface web.
 
